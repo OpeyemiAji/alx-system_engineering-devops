@@ -1,2 +1,2 @@
 #!/bin/bash
-egrep "root" /etec/passwd
+grep "root" /etec/passwd
